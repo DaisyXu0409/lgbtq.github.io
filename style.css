@@ -1,0 +1,21 @@
+/* CSS files add styling rules to your content */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Quicksand:wght@500&family=Roboto+Condensed&display=swap');
+body{
+font-family: 'Poppins', sans-serif;
+margin: 2em;
+background-color: #82d895}
+
+h1 {
+font-family: 'Quicksand', sans-serif;
+  color: #000000;
+  font-size: 70px;
+}
+#image { margin-left: 75px;}
+#ally {margin-left: 45px; color: #000000}
+#mythandfacts {margin-left: 45px; color: #000000}
+#resource {margin-left: 45px; color: #000000}
+#home{color:#000000}
+table,th,td {border: 1px solid black;
+  border-collapse: collapse; }
+th, td {padding: 15px;}
